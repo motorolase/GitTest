@@ -12,6 +12,7 @@ int main()
 {
 	cout << "A" << endl;
 	cout << "Modyfikacja" << endl;
+	cout << "Modyfikacja2" << endl;
 	cin.get();
     return 0;
 }
