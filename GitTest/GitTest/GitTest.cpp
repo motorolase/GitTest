@@ -11,6 +11,7 @@ using namespace std;
 int main()
 {
 	cout << "A" << endl;
+	cout << "Modyfikacja" << endl;
 	cin.get();
     return 0;
 }
